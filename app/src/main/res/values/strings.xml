@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">连接有线耳机时过滤部分播放、切歌和可选音量按键。不读取屏幕内容。由于厂商差异，不保证拦截所有转接器。</string>
+</resources>
